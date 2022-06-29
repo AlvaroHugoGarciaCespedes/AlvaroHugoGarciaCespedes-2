@@ -1,0 +1,6 @@
+Agente de usuario: Mediapartners-Google
+Rechazar:
+
+Agente de usuario: *
+No permitir: /buscar
+Permitir: /
